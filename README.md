@@ -1,4 +1,4 @@
-# giftbox
+# Deep learning for spam detection
 Data Science journey 
 The first project is a spam detection using deep learing and Naive bayes method with @MarkSmith, @JinWang, @Suky,@Janki, @TobiasBoadway, and @Sekar
 
